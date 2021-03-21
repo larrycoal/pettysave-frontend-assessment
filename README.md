@@ -4,16 +4,16 @@ This test is for the role of frontend engineering intern at Pettysave
 
 ## Objective
 
-Using JavaScript and Vue your task is to implement a page that fetches authors and their works from the [Penguin random house rest services api](http://www.penguinrandomhouse.biz/webservices/rest/), and display it in the best possible way that you can
+Using JavaScript and Vue your task is to implement a page that fetches authors and their works from the [JSON placeholder api](https://jsonplaceholder.typicode.com), and display some of the data in the best possible way that you can
 
 ## Expectations
 
 You are required to:
 
-- Implement an **Authors** page that fetches and displays all authors under Penguin random house
+- Implement an **Posts** page that fetches and displays posts available in the API
 - Use VueX to store data from the API
-- Implement an **Author** page that fetches the details about an author using their Id
-- Link the **Author** to the **Authors** page using Vue Router
+- Implement a **Post** page that fetches the details about the post using their Id
+- Link the **Post** to the **Posts** page using Vue Router
 
 ### What we'll be watching out for
 
